@@ -11,13 +11,13 @@ And that's why I started reading and putting this into practice. As Databricks i
 
 ## File descriptions
 
-### [notebooks\movies_data.py](notebooks\movies_data.py)
+### [notebooks\movies_data.py](./notebooks/movies_data.py)
 
 This notebook contains instructions to gather and refine the data we're going to study on the `movies.py` notebook.
 
 For this notebook, besides basic mods to make some commands work (like ! before a `pip` command) no adjustments were needed to make it work using Databricks.
 
-### [notebooks\movies.py](notebooks\movies.py)
+### [notebooks\movies.py](./notebooks/movies.py)
 
 This notebook contains all the data manipulation and image plot of this article. Here, some significant adjustments were made to make it work inside Databricks. They are all documented as Markdown in notebook cells.
 
